@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋! Pho here.
+-  I'm into **Automation & Scripting and Mobile & Web Development**. Agricultural Tech is one of my passions.
+- 📫 Get in touch with me at phonum5@gmail.com
 
 <!--
 **mstrchf/mstrchf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
