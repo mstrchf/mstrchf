@@ -1,5 +1,5 @@
 **👋 Hello! Pho here.**
-- 👀I'm into **Automation & Scripting and Mobile & Web Development**. Agricultural Tech is one of my passions.
+- 👀I'm into **Automation & Scripting and Mobile & Web Development**. Agricultural Tech is one of my passions too.
 - 📫 Get in touch with me at phonum5@gmail.com
 
 <!--
